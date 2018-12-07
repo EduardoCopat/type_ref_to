@@ -1,8 +1,0 @@
-REPORT ztype_ref_to.
-
-START-OF-SELECTION.
-  PERFORM run.
-
-FORM run.
-
-ENDFORM.
