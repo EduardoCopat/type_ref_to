@@ -17,6 +17,8 @@ CLASS ZCL_REF_TO IMPLEMENTATION.
 
   METHOD method1.
 
+    DATA: type_ref_to_table TYPE zref_to.
+
     WRITE: / 'foobar'.
 
   ENDMETHOD.
